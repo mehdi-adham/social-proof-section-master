@@ -47,7 +47,7 @@ body {
 .proof-info-item {
   padding-right: 4rem;
 }
-.proof-info-item h1,
+
 .title {
   font-size: 3.2em;
   font-weight: 700;
@@ -162,8 +162,10 @@ body {
       "rated-info-item"
       "users-info-item";
   }
-  .proof-info-item h2, .title{
+  .title{
     margin-bottom: 0.7em;
+    font-size: 2.5em;
+    line-height: 3rem;
 }
   .users-info-item {
     flex-direction: column;
