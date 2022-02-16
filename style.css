@@ -15,8 +15,8 @@
 body {
   font-family: "Spartan", sans-serif;
   font-size: 15px;
-  background-image: url("../images/bg-pattern-top-desktop.svg"),
-    url("../images/bg-pattern-bottom-desktop.svg");
+  background-image: url("images/bg-pattern-top-desktop.svg"),
+    url("images/bg-pattern-bottom-desktop.svg");
   background-repeat: no-repeat, no-repeat;
   background-position: top -200px left -300px, bottom -100px right -100px;
   background-attachment: fixed, fixed;
@@ -138,8 +138,8 @@ body {
 
 @media screen and (max-width: 768px){
   body {
-    background-image: url("../images/bg-pattern-top-mobile.svg"),
-      url("../images/bg-pattern-bottom-mobile.svg");
+    background-image: url("images/bg-pattern-top-mobile.svg"),
+      url("images/bg-pattern-bottom-mobile.svg");
     background-repeat: no-repeat, no-repeat;
     background-position: top left, bottom right;
     background-attachment: fixed, fixed;
