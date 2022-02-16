@@ -26,7 +26,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [solution](https://your-solution-url.com)
+- Solution URL: [solution](https://www.frontendmentor.io/solutions/social-proof-section-using-css-grid-BQqCTbq0O)
 - Live Site URL: [live](https://mehdi-adham.github.io/social-proof-section-master/)
 
 ## My process
