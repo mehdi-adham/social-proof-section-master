@@ -162,10 +162,8 @@ body {
       "rated-info-item"
       "users-info-item";
   }
-  .proof-info-item h1, .title{
+  .proof-info-item h2, .title{
     margin-bottom: 0.7em;
-    font-size: 2.5em;
-    line-height: 3rem;
 }
   .users-info-item {
     flex-direction: column;
