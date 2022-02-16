@@ -129,7 +129,7 @@ body {
   color: var(--Light-Grayish-Magenta);
   font-size: 0.85em;
 }
-.profile-name h4 {
+.profile-name h3 {
   color: hsl(333, 50%, 67%);
   font-size: 0.85em;
   font-weight: 100;
