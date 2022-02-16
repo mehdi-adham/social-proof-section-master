@@ -125,7 +125,7 @@ body {
   justify-content: space-around;
 }
 
-.profile-name h3 {
+.profile-name h2 {
   color: var(--Light-Grayish-Magenta);
   font-size: 0.85em;
 }
